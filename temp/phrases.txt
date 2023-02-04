@@ -1,0 +1,13 @@
+when is sunrise
+when is sunset
+when does the sunset
+when does the sunrise
+whats the temperature outside
+whats the weather like
+how does the outside feel like
+whats the pressure outside
+how cloudy is it
+whats the windspeed
+what direction is the windspeed
+is it raining
+is it snowing

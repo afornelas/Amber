@@ -117,7 +117,7 @@ def human_readable_forecast(day_id,flags):
     return weather_str
 
 weatherOffset = 0.96 #OpenWeather is far less unreliable than darksky and as such, all weather events are multiplied by this number to reflect other sources
-openWeatherApiKey = "7933bf4eaad7217245bebcd750d68d23"
+openWeatherApiKey = ""
 location = [33.643242,-117.842006]
 
 weather_json = requests.get("http://api.openweathermap.org/data/2.5/onecall?lat={}&lon={}&exclude=minutely&units=imperial&appid={}".format(location[0],location[1],openWeatherApiKey))
